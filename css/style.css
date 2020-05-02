@@ -1,0 +1,89 @@
+body{
+  background-color: #f9f9f9;
+}
+
+header{
+background-color: white;
+margin:;
+}
+
+.topword{
+  font-size: 8px;
+  max-width: 1000px;
+  color:darkgrey;
+display: flex;
+justify-content: space-between;
+margin: 0 auto;
+padding: 0 4%;
+margin-top: 5px;
+width: 120%;
+}
+
+
+ul{
+  list-style: none;
+  display: flex;
+}
+
+li{
+  margin-left: 36px;
+}
+
+li a{
+  text-decoration: none;
+  color: darkgrey;
+}
+
+.toppage{
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+padding:180px 0 100px 0;
+height: 280px;
+width: 100%;
+/* background-color: white; */
+}
+
+h1{
+  margin-bottom: 0;
+}
+
+.toppage p{
+  margin-top: 0;
+  color: darkgray;
+}
+
+
+.profimage{
+display: flex;
+justify-content: space-between;
+
+}
+
+.about h2{
+  text-align: center;
+  font-family:'Open Sans', sans-serif;
+  font-size: 30px;
+  padding: 100px 0 ;
+ 
+}
+
+.profile{
+  border-radius: 50%;
+width: 250px;
+height: 250px;
+/* margin-left: 200px; */
+}
+
+.profimage{
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 0 20%;
+
+}
+h3{
+  font-family:'Open Sans', sans-serif;
+  }
+
+  .word{
+    display: block;
+  }
